@@ -1,0 +1,1 @@
+cd atomicals-js-master &&  yarn cli mint-dft atom 
